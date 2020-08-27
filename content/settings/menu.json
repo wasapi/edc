@@ -6,7 +6,7 @@
       "subMenu": [
         {
           "label": "Le projet",
-          "link": "/p"
+          "link": "/"
         },
         {
           "label": "Le réseau"
