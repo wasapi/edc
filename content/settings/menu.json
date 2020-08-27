@@ -1,8 +1,20 @@
 {
   "menuItems": [
     {
-      "label": "Home",
-      "link": "/"
+      "label": "L'Église",
+      "link": "/",
+      "subMenu": [
+        {
+          "label": "Le projet",
+          "link": "/p"
+        },
+        {
+          "label": "Le réseau"
+        },
+        {
+          "label": "Nos valeurs"
+        }
+      ]
     },
     {
       "label": "About",
@@ -16,8 +28,5 @@
       "label": "Contact",
       "link": "/contact"
     }
-  ],
-  "__gatsby_resolved": {
-    "fileRelativePath": "/content/settings/menu.json"
-  }
+  ]
 }
