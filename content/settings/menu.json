@@ -12,7 +12,8 @@
           "label": "Le réseau"
         },
         {
-          "label": "Nos valeurs"
+          "label": "Nos valeurs",
+          "link": "/valeurs"
         }
       ]
     },
