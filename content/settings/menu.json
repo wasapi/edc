@@ -2,9 +2,17 @@
   "menuItems": [
     {
       "subMenu": [
-        {},
-        {}
-      ]
+        {
+          "link": "/valeurs",
+          "label": "Nos valeurs"
+        },
+        {
+          "label": "Le réseau",
+          "link": "/reseau"
+        }
+      ],
+      "label": "L'Église",
+      "link": "/"
     },
     {
       "label": "Contact",
