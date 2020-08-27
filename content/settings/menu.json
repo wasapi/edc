@@ -1,31 +1,6 @@
 {
   "menuItems": [
     {
-      "label": "L'Église",
-      "link": "",
-      "subMenu": [
-        {
-          "label": "Le projet",
-          "link": "/"
-        },
-        {
-          "label": "Le réseau"
-        },
-        {
-          "label": "Nos valeurs",
-          "link": "/valeurs"
-        }
-      ]
-    },
-    {
-      "label": "messages",
-      "link": "/messages"
-    },
-    {
-      "label": "Blog",
-      "link": "/blog"
-    },
-    {
       "label": "Contact",
       "link": "/contact"
     }
