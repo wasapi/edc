@@ -1,6 +1,12 @@
 {
   "menuItems": [
     {
+      "subMenu": [
+        {},
+        {}
+      ]
+    },
+    {
       "label": "Contact",
       "link": "/contact"
     }
