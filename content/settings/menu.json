@@ -2,7 +2,7 @@
   "menuItems": [
     {
       "label": "L'Église",
-      "link": "/",
+      "link": "",
       "subMenu": [
         {
           "label": "Le projet",
